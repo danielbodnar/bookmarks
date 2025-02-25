@@ -1,4 +1,6 @@
 {
-  "name": "firefox",
-  "bookmarks": []
+  "$schema": "https://frederikb.github.io/bookmarksync/schemas/bookmarks.1-0-0.schema.json",
+  "name": "Firefox",
+  "bookmarks": [
+  ]
 }
